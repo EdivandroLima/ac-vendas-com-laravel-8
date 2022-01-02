@@ -75,27 +75,27 @@ composer require felipedamacenoteodoro/makeservicerepository --dev
 ## Instalação
 **Instale as dependências**
 ```
-$ composer install --no-scripts
+composer install --no-scripts
 ```
 **Copie o arquivo .env.example**
 ```
-$ cp .env.example .env
+cp .env.example .env
 ```
 **Crie uma nova chave para a aplicação** 
 ```
-$ php artisan key:generate
+php artisan key:generate
 ```
 **Configure o banco de dados (utilizei o MySQL) no arquivo .env e rodar os migrations com:**
 ```
-$ php artisan migrate
+php artisan migrate
 ```
 **Executar os seeders**
 ```
-$ php artisan db:seed
+php artisan db:seed
 ```
 **Iniciando a aplicação**
 ```
-$ php artisan serve
+php artisan serve
 ```
 **Login**
 
