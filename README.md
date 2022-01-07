@@ -8,8 +8,8 @@ Visualizar demo: https://ac-vendas.herokuapp.com/
 - [x] Bootstrap 5
 
 ## Sevidor
-- PHP 7.2^
-- MySQL v5.7^ 
+- PHP ^7.2
+- MySQL ^5.7
 
 ## Template
 [Material Dashboard 2](https://www.creative-tim.com/product/material-dashboard)
