@@ -75,7 +75,7 @@ composer require felipedamacenoteodoro/makeservicerepository --dev
 ## Instalação
 **Instale as dependências**
 ```
-composer install --no-scripts
+composer install
 ```
 **Copie o arquivo .env.example**
 ```
